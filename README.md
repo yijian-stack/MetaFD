@@ -1,7 +1,7 @@
 ## Multi-scale Receptive Field Enhancement Network (MRFEN)
 
 In the domain of bearing fault diagnosis, one of the primary challenges is the accurate extraction and interpretation of fault signatures across various frequency bands and time scales. Traditional methods often struggle with the complexity of vibration signals, which contain both high-frequency transients and low-frequency structural resonances. To address this, we propose the Multi-scale Receptive Field Enhancement Network (MRFEN).
-
+![alt text](1.png)
 Given an input vibration signal $\mathbf{X} \in \mathbb{R}^{C \times L}$, where $C$ represents the number of sensor channels and $L$ is the signal length, MRFEN operates as follows:
 
 1. Multi-scale Feature Extraction:
