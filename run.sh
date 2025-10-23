@@ -1,0 +1,1 @@
+python train_maml.py --ways 10 --shots 3 --iter 50 --first_order True --preprocess FFT --train_domains 3 --test_domain 2

@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+env/
+lib/
+data/
+checkpoints/
+images/
+models/
+results/
+
+# Test file
+testing_notebook.ipynb
+test.ipynb
+
+train_prefine.py
+train_pronet.py
